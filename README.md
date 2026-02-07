@@ -1,25 +1,168 @@
-# Undertale in Python
+# 🎮 Undertale in Python  
+### Fork / Modified Version
 
-This is the repository for Undertale in Python. This is a passion project I've had from a young age, but in no way represents my current abilities (thank god) even though it was helpful to learn the Python fundamentals. 
+---
 
-## How to Play
+## 🇷🇺 Русская версия
+
+## 📌 О проекте
+
+**Undertale in Python** — фанатский проект, изначально созданный  
+**JackCool476** 🐐
+
+Это passion project автора, сделанный в ранние годы и использовавшийся
+для изучения основ Python. Сам автор подчёркивает, что код **не отражает его текущие навыки**
+(и, да, там есть кринж — но он честный 😄).
+
+> ⚠️ ВАЖНО  
+> Этот репозиторий является **форком** оригинального проекта.  
+> **Оригинальный автор: JackCool476**  
+> Все права на оригинальную идею и исходный код принадлежат ему.
+
+Я не являюсь автором оригинального кода.  
+Этот форк создан **в учебных целях**, для экспериментов, рефакторинга
+и дальнейшего развития идеи.
+
+---
+
+## 🙏 Благодарности
+
+Огромное спасибо:
+
+- 💙 **JackCool476** — за оригинальный проект, идею и вдохновение  
+- 💻 Сообществу Python — за язык, который прощает всё  
+- 🎮 Toby Fox — за Undertale (без него ничего бы не было)
+
+---
+
+## ▶️ Как запустить
+
+### Зависимости
+- **Python** (рекомендуется последняя версия)  
+  Скачать: https://www.python.org/downloads/
+
+### Установка
+
+Есть два варианта:
+
+#### 🔥 Cutting-edge версия
+1. Нажмите **Code → Download ZIP**
+2. Распакуйте архив
+3. Запустите любой `.py` файл
+
+#### ✅ Release-версия (рекомендуется)
+1. Перейдите во вкладку **Releases**
+2. Выберите последнюю версию
+3. Скачайте нужный `.py` файл
+4. Запустите его через Python
+
+---
+
+## 📢 Соцсети оригинального автора
+
+- ▶️ YouTube (cringe warning):  
+  https://www.youtube.com/channel/UCMF5plyvE3mCZA8ke_mqWcw
+
+---
+
+## 👤 Модификации и поддержка форка
+
+Форк и изменения сделаны: **Vlad**
+
+### 📬 Контакты
+- Telegram: [@lowmanspy](https://t.me/LoWmaNspY)
+- Gmail: [lovboris889@gmail.com](mailto:lovboris889@gmail.com)
+
+---
+
+## 📝 Примечание
+
+Этот код — **абсолютный mess**, но:
+- он живой
+- он честный
+- он учит
+
+Если вы здесь ради идеального кода — вам не сюда.  
+Если ради вайба, обучения и экспериментов — добро пожаловать 😌
+
+---
+
+---
+
+## 🇬🇧 English Version
+
+## 📌 About
+
+**Undertale in Python** is a fan-made project originally created by  
+**JackCool476**.
+
+This was a passion project made at a young age to learn Python fundamentals.
+The author himself states that the code **does not represent his current skill level**
+(thank god 😄), but it still holds educational and historical value.
+
+> ⚠️ IMPORTANT  
+> This repository is a **fork** of the original project.  
+> **Original author: JackCool476**  
+> All original ideas and code belong to him.
+
+I am not the original author.  
+This fork exists for learning, refactoring, and experimenting with the concept.
+
+---
+
+## 🙏 Credits
+
+Huge thanks to:
+
+- 💙 **JackCool476** — original creator of the project  
+- 💻 Python community — for the language  
+- 🎮 Toby Fox — for Undertale itself
+
+---
+
+## ▶️ How to Play
 
 ### Dependencies
+- **Python** (latest version recommended)  
+  Download: https://www.python.org/downloads/
 
-- Python (IDK which version, but I always code on the newest release which is found [here](https://www.python.org/downloads/))
+### Installation
 
-### How to download
+You have two options:
 
-You have two options when it comes to downloading. You can either get the cutting-edge build (whatever the newest code is) or the main release. (usually released after new features or game-breaking bugs are smashed) I'd recommend the most recent release because that has been tested for bugs and (hopefully) doesn't have any.
+#### 🔥 Cutting-edge build
+1. Click **Code → Download ZIP**
+2. Unzip the archive
+3. Run any included `.py` file
 
-- Cutting-edge build: Click the large green button called download on the main project page and then download zip. Unzip the downloaded file and run either of the .py files included.
+#### ✅ Release build (recommended)
+1. Go to the **Releases** tab
+2. Download the latest version
+3. Run the `.py` file using Python
 
-- Release: Click releases on the main project page and choose which version you want to download. (the newest is recommended) Here, click on the .py file for which game you want to download and then open it.
+---
 
-## Promotion
+## 📢 Original Author Links
 
-- [Youtube](https://www.youtube.com/channel/UCMF5plyvE3mCZA8ke_mqWcw) (cringe warning)
+- ▶️ YouTube (cringe warning):  
+  https://www.youtube.com/channel/UCMF5plyvE3mCZA8ke_mqWcw
 
-## Thank You
+---
 
-Please try to enjoy this absolute mess of code.
+## 👤 Fork maintainer
+
+Fork maintained and modified by **Vlad**
+
+### 📬 Contact
+- Telegram: [@lowmanspy](https://t.me/LoWmaNspY)
+- Email: [lovboris889@gmail.com](mailto:lovboris889@gmail.com)
+
+---
+
+## 📝 Final Note
+
+This code is messy.  
+It is chaotic.  
+But it teaches.
+
+Enjoy the mess ❤️
