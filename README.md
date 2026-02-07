@@ -1,6 +1,7 @@
 # 🎮 Undertale in Python  
 ### Fork / Modified Version
-
+- 🇷🇺 [Русская версия](#🇷🇺-русская-версия)
+- 🇺🇲 [English version](#🇺🇲-english-version)
 ---
 
 ## 🇷🇺 Русская версия
