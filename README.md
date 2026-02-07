@@ -6,7 +6,7 @@
 ## 🌐 Перейти к версии
 
 - 🇷🇺 [Русская версия](https://github.com/lolchokolats/Undertale-In-Python/blob/master/README.md#-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F)
-- 🇺🇲 [English version](#english-version)
+- 🇺🇲 [English version](https://github.com/lolchokolats/Undertale-In-Python/blob/master/README.md#-english-version)
 
 ---
 
